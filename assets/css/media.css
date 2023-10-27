@@ -26,6 +26,7 @@
     /* BANNER 2 CODE */
     .banner2{
         text-align: center;
+        width: 100%;
     }
     .banner2>div>div>div>img{
         height: 400px;
